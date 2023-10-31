@@ -11,8 +11,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-HEATMAP_WIDTH = 1000
-HEATMAP_HEIGHT = 780
+HEATMAP_WIDTH = 800
+HEATMAP_HEIGHT = 400
 
 
 features = ["bigram_overlap_ratio", "trigram_overlap_ratio", "word_overlap_ratio", 
